@@ -9,6 +9,12 @@
 # can run this script in a cron job to periodically compare a previously set
 # A record with the currently assigned IP address at your home.  An update
 # would occur only if the IP addresses differ.
+#
+# Paul Kelaita
+# 2018-11-09
+# https://github.com/kelaita/
+# https://www.linkedin.com/in/kelaita/
+# @kelaita
 
 # set the following two variables to match your API key and subdomain info;
 #
